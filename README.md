@@ -11,5 +11,5 @@ This repository displays a project from 'Modelling Individual Differences' of De
 A 30-item personality questionnaire was created based on the theory of the Dark Triad. 117 participants were recruited. The project was to assess questionnaire's psychometric qualities by Item Response and Factor Analysis Approach.
 
 ## Acknowledgement
-- This was a collaboration of Anderi Dununta, Emily Rodel, Hieu Doan, & Kaloyan Natzev
+- This was a collaboration of Andeir Dununta, Emily Rodel, Hieu Doan, & Kaloyan Natzev
 - The project was supervised by Mathilde ver Teen
