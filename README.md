@@ -7,6 +7,9 @@ This repository displays a project from 'Modelling Individual Differences' of De
 - R code for analysis
 - Result and Discussion
 
-## Acknowledgement:
+## Method
+A 30-item personality questionnaire was created based on the theory of the Dark Triad. 117 participants were recruited. The project was to assess questionnaire's psychometric qualities.
+
+## Acknowledgement
 - This was a collaboration of Anderi Dununta, Emily Rodel, Hieu Doan, & Kaloyan Natzev
 - The project was supervised by Mathilde ver Teen
