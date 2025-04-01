@@ -2,7 +2,7 @@ library(readxl)
 library(ltm)
 library(psych)
 library(lavaan)
-df <- readxl::read_xlsx("C:/Users/ADMIN/OneDrive - UvA/Desktop/MID/DarkTriad_Data File.xlsx")
+df <- readxl::read_xlsx("DarkTriad_Data File.xlsx")
 narcissism <- df[,1:10]
 machiavellianism <- df[,11:20]
 psychopathy <- df[,21:30]
